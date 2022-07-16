@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manav76
 - 👀 I’m interested in Frontend development and blockchain
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on any exciting web developemt projects
 - 📫 How to reach me email - mjfx102@gmail.com
 
