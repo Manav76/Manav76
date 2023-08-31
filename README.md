@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manav76
-- 👀 I’m interested in Frontend development and blockchain
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on any exciting web developemt projects
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning cool frontend technologies 
+- 💞️ I’m looking to collaborate on any exciting full-stack projects
 - 📫 How to reach me email - mjfx102@gmail.com
 
 <!---
